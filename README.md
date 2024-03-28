@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Rental-Buku
+Projek Rental Buku Laravel adalah aplikasi web yang dibangun menggunakan framework Laravel untuk memudahkan manajemen penyewaan dan peminjaman buku. Aplikasi ini dirancang untuk membantu toko buku, perpustakaan, atau penyedia jasa penyewaan buku dalam mengelola inventaris, transaksi peminjaman, dan data pelanggan. 
+>>>>>>> ee41948560ed89d0e020ff3338e3834588c4bbb4
